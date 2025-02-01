@@ -1,4 +1,4 @@
-# Sensor-Actuator System
+# Complicated multithreaded sensor-actuator system
 
 This is a multithreaded sensor monitoring and actuator control system implemented in C++. It simulates sensors and an LED actuator, allowing users to monitor sensor values and adjust thresholds dynamically through a command interface.
 
